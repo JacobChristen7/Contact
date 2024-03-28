@@ -1,0 +1,27 @@
+
+input {
+    display: inline;
+    border: 2px solid rgb(145, 145, 145);
+    height: 20px;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+#submit {
+    width: 340px;
+    padding-top: 0px;
+}
+.contentText {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 400px;
+    margin-top: 250px;
+    padding-bottom: 15px;
+    font-family: Oswald, Helvetica, sans-serif;
+    
+    
+}
+
